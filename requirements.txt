@@ -1,6 +1,6 @@
-aiohttp 
-aiofiles 
-asyncio 
-Pillow 
-colorama 
+aiohttp
+aiofiles
+asyncio
+Pillow
+colorama
 pystyle

@@ -8,8 +8,8 @@ Welcome to YiffScraper, an asynchronous, multi-threaded image scraper dedicated 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contribution)
-- [Licence](#license)
+- [Contribution](./CONTRIBUTING.md)
+- [Licence](./LICENSE)
 
 ## Overview
 
@@ -69,9 +69,9 @@ During the scraping setup, you'll go through several prompts:
 
 The tag builder assists in constructing a tag string based on your preferences, such as gender, score, rating, and any additional kinks or fetishes.
 
-## Contribution
+## FAQ
 
-Contributions are welcomed! Feel free to fork the repository and submit your pull requests. For major changes, kindly open an issue first to discuss what you'd like to modify.
+Before creating or commenting, read [Contributing](./CONTRIBUTING.md) for the steps to follow first.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+1. Is e621.net the only website available?
+- Yes. At the current moment the only option is e6 however we are planning on expanding to rule34.xxx and some more requested.

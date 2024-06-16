@@ -1,0 +1,11 @@
+# Dependabot to update dependencies weekly
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: "weekly"
+  groups:
+    python-packages:
+      patterns:
+        - "*"

@@ -19,7 +19,6 @@ from pystyle import Center, Box
 import io
 from PIL import Image
 
-
 # Initialise colorama for colored output
 init(autoreset=True)
 
@@ -95,7 +94,6 @@ def is_image_valid(file_path):
         return True
     except (IOError, SyntaxError):
         return False
-    return False
 
 async def download_file(sem, count, file_url, post_id, session, debug, thread_num, download_folder):
     async with sem:
